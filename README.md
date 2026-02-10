@@ -29,7 +29,7 @@ nodemon webs.js
 
 ```
 /backend
-   server.js
+  webs.js
    package.json
    README.md
 ```
